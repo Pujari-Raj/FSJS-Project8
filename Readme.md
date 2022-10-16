@@ -16,7 +16,9 @@ Technologies/Tools Used:
 
 Click on the below given link to get the preview of the page
 
-<a href=""><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+<a href="https://pujari-project8.netlify.app/">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</a>
 
 Learnings from this projects:-
 * How to use the well-known flexbox property of css.
@@ -25,5 +27,9 @@ Learnings from this projects:-
 * How to design beautiful buttons for webpage.
 * How to Add GoogleFonts to webpage.
 * Different CSS properties.
+
+&nbsp;
+![Project-Image](./screenshots/Project8-ss.png "Title is optional")
+
 
 ## Time Taken to complete this project was 3 days.
