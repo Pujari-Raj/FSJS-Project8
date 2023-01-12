@@ -16,7 +16,7 @@ Technologies/Tools Used:
 
 Click on the below given link to get the preview of the page
 
-<a href="https://pujari-project8.netlify.app/">
+<a href="https://fsjs-project8-pujari.vercel.app/">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
